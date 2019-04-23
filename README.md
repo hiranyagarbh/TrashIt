@@ -12,7 +12,7 @@ TrashIt! Is a smart can which can classify biodegradable and non-biodegradable w
 Intelligent classification for recycling and disposal of waste around the university campus. It also depicts SRM's initiative towards Swachh Bharat Abhiyan.
 
 **Methodology:**
-![methodology](hiranyagarbh.github.com/TrashIt/misc/method.png)
+![methodology](github.com/hiranyagarbh/TrashIt/misc/method.png)
 
 **Implementation strategy:**
 Our smart trash bin could be placed in various places around the campus. Java, UB, Tech Park canteens would be our prime targets.  
