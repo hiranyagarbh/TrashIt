@@ -21,7 +21,8 @@ In the near future, we could also make a larger model which could manage massive
 **Pros:**  
 1. Waste is classified as per its type.
 2. Manpower is reduced;the waste need not be sorted by a person.
-3. Fuel is saved.The content in each bin is analyzed and based on that, the call for transportation is made.  
+3. Fuel is saved.The content in each bin is analyzed and based on that, the call for transportation is made. 
+
 **Cons:**  
 1. The model is costlier than a normal plastic dustbin.
 2. Mixed waste cannot be classified efficiently upto a certain extent.
